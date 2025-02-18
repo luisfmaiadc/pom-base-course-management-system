@@ -1,0 +1,9 @@
+[submodule "sboot-cms-course-ms"]
+	path = sboot-cms-course-ms
+	url = git@github.com:luisfmaiadc/sboot-cms-course-ms.git
+[submodule "sboot-cms-teacher-ms"]
+	path = sboot-cms-teacher-ms
+	url = git@github.com:luisfmaiadc/sboot-cms-teacher-ms.git
+[submodule "sboot-cms-student-ms"]
+	path = sboot-cms-student-ms
+	url = git@github.com:luisfmaiadc/sboot-cms-student-ms.git

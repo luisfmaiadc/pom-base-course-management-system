@@ -79,6 +79,12 @@
         </dependency>
     </dependencies>
 
+    <modules>
+        <module>sboot-cms-course-ms</module>
+        <module>sboot-cms-teacher-ms</module>
+        <module>sboot-cms-student-ms</module>
+    </modules>
+
     <properties>
         <java.version>21</java.version>
         <spring-boot.version>3.1.5</spring-boot.version>

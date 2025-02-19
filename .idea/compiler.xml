@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sboot-cms-api-gateway" />
+        <module name="sboot-cms-service-discovery" />
       </profile>
       <profile name="Annotation profile for pom-base-course-management-system" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -23,7 +25,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="pom-base-course-management-system" options="-parameters" />
+      <module name="sboot-cms-api-gateway" options="-parameters" />
       <module name="sboot-cms-course-ms" options="-parameters" />
+      <module name="sboot-cms-service-discovery" options="-parameters" />
       <module name="sboot-cms-student-ms" options="-parameters" />
       <module name="sboot-cms-teacher-ms" options="-parameters" />
     </option>

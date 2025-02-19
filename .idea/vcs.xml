@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sboot-cms-api-gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sboot-cms-course-ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sboot-cms-service-discovery" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sboot-cms-student-ms" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sboot-cms-teacher-ms" vcs="Git" />
   </component>

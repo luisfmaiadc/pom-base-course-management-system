@@ -10,3 +10,6 @@
 [submodule "sboot-cms-service-discovery"]
 	path = sboot-cms-service-discovery
 	url = git@github.com:luisfmaiadc/sboot-cms-service-discovery.git
+[submodule "sboot-cms-api-gateway"]
+	path = sboot-cms-api-gateway
+	url = git@github.com:luisfmaiadc/sboot-cms-api-gateway.git

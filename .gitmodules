@@ -7,3 +7,6 @@
 [submodule "sboot-cms-student-ms"]
 	path = sboot-cms-student-ms
 	url = git@github.com:luisfmaiadc/sboot-cms-student-ms.git
+[submodule "sboot-cms-service-discovery"]
+	path = sboot-cms-service-discovery
+	url = git@github.com:luisfmaiadc/sboot-cms-service-discovery.git
